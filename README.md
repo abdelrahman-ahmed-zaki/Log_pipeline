@@ -14,4 +14,4 @@ Architecture
 Python Log Generator │ ▼ Apache Flume │ ▼ Hadoop HDFS │ ▼ Apache Spark (PySpark) │ ▼ Data Processing (ETL) │ ▼ Matplotlib Visualization
 
 
-![Architecture](pipeline.jpg)
+![Architecture](pipeline2.jpg)
