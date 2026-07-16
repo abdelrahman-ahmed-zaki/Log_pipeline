@@ -163,11 +163,15 @@ Process large-scale data with Apache Spark.
 Perform ETL transformations.
 Visualize processed data.
 Work with Linux and GitHub.
+
 👨‍💻 Team Members
 
 Shenouda Aboelrose
+
 Abdelrahman Ahmed Mohamed
+
 Mohamed Mo'men Mohamed Abdullah
+
 📄 License
 
 This project is created for educational purposes.
